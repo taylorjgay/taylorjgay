@@ -1,6 +1,6 @@
 ## Hi, I'm Taylor
 
-Software engineer at BNSF Railway, leading the migration of a legacy analytics estate to an open-source Python stack, with Claude Code in the loop daily. Outside of work, I build complete Python and full-stack tools. Not notebooks or one-off scripts, but things with tests, APIs, and a UI.
+18 years in IT: 13 at a healthcare software company, from frontline support to running EHR implementations internationally, then data and software engineering at BNSF Railway. I use Claude Code daily for production development. Off the clock I build complete Python and full-stack tools that ship with tests, APIs, and a UI.
 
 ## Projects
 
@@ -10,4 +10,4 @@ Software engineer at BNSF Railway, leading the migration of a legacy analytics e
 
 ## Stack
 
-Python · SQL · React · TypeScript · FastMCP · Docker · Airflow · Tailwind CSS
+Python · SQL · React · TypeScript · FastMCP · FastAPI · Docker · Tailwind CSS
